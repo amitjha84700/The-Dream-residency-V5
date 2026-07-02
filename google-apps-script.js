@@ -44,7 +44,7 @@
 
 
 // ── CONFIG ─────────────────────────────────────────────────────
-var PORTAL_URL     = 'https://dreamresidency-v2.onrender.com';
+var PORTAL_URL     = 'https://the-dream-residency-v5.onrender.com';
 var WEBHOOK_SECRET = 'dream-sheets-secret';
 
 // ── USERS WHO CAN DELETE ROWS AND EDIT CONFIRMED BOOKINGS ──────
